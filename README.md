@@ -6,4 +6,6 @@ My name is Sarah and I'm a management consultant turned data analyst. Highlights
 - Launched Karachi's first charity running event called Special Olympics Pakistan Annual Half-marathon. The event is now in its 11th year
 - Worked on various railway reforms in the UK and Saudi Arabia
 
-I'm now transitioning to data analytics as I love telling stories with data. Just completed the LSE Data Analtics Career Accelerator ranking in the top 5% of the cohort. I love women's sports and play football regularly. I pen down my analysis and thoughts on women's sports here: https://substack.com/@sarahaminali?
+I'm now transitioning to data analytics as I love telling stories with data. Recently completed the LSE Data Analtics Career Accelerator ranking in the top 5% of the cohort. 
+
+I love women's sports and play football regularly. I pen down my analysis and thoughts on women's sports here: https://substack.com/@sarahaminali?
