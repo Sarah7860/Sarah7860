@@ -8,4 +8,4 @@ My name is Sarah and I'm a management consultant turned data analyst. Highlights
 
 I'm now transitioning to data analytics as I love telling stories with data. Recently completed the LSE Data Analtics Career Accelerator ranking in the top 5% of the cohort. 
 
-I love women's sports and play football regularly. I pen down my analysis and thoughts on women's sports here: https://substack.com/@sarahaminali?
+I love women's sports and play football regularly. I pen my analysis and thoughts on women's sports here: https://substack.com/@sarahaminali?
